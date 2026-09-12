@@ -89,7 +89,7 @@ Configured a dedicated NAT Network within VirtualBox to ensure VMs can route tra
 * **DHCP:** Enabled (for future targets)
 * **IPv6:** Disabled
 
-![NAT Network Settings](2-screenshot-network-settings.png)
+![NAT Network Settings](2-screenshot-network-setting.png)
 
 ### Phase 4: OS Import & Provisioning
 Imported the official Kali Linux VirtualBox image. Allocated **2048 MB of RAM** and bound the network interface to the newly created NAT Network:
